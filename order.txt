@@ -1,0 +1,23 @@
+
+parts
+
+------------- only after all machines are working perfectly and code is refactored
+forces
+cables
+gears
+modes
+debug
+add-mode
+color-mode
+graph-mode
+layer-mode
+motherboard-mode
+physics-mode
+property-mode
+simulation-mode
+commands
+undo
+
+-------------------- later if at all (maybe just avatar)
+avatar
+replayer

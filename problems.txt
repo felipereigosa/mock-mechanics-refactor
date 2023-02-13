@@ -1,0 +1,9 @@
+
+code repetition on graphics draw calls
+collision
+matrix using java file
+picture refactoring (svg stuff)
+independent xml?
+core everything
+parts
+motherboard
